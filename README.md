@@ -10,3 +10,5 @@ TTGO_T_Watch 查看远程摄像头摄像
    ino文件 调整路由器账号，密码，树莓派IP<BR/>
    编译，烧录至TTGO T-WATCH<BR/>
    
+   演示功能，学习用
+   
