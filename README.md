@@ -16,3 +16,9 @@ TTGO_T_Watch 查看远程摄像头摄像
    目前刷新率很低，每秒一张，适合对速度要求的不高的监视,<br/>
    上传本程序的目的是给大家一个框架和学习demo,可以在此基础上进行功能改进
    
+   硬件效果: <br/>
+   <img src= 'https://github.com/lixy123/TTGO_T_Watch_See_Camera/blob/master/TTGO_T_Watch_See_Camera/IMG_20200419_194214.jpg?raw=true' />
+<br/>
+<br/>
+<img src= 'https://github.com/lixy123/TTGO_T_Watch_See_Camera/blob/master/TTGO_T_Watch_See_Camera/IMG_20200419_194835.jpg?raw=true' />
+<br/>
