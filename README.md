@@ -1,7 +1,5 @@
 
-TTGO_T_Watch_See_Camera
-
-TTGO_T_Watch 显示别处摄像头视频
+TTGO_T_Watch 查看远程摄像头摄像
 
 1.服务端：<BR/>
    硬件:树莓派， <BR/>
