@@ -2,7 +2,7 @@
 TTGO_T_Watch 查看远程摄像头摄像
 
 1.服务端：<BR/>
-   硬件:树莓派， <BR/>
+   硬件:树莓派 <BR/>
    目录:raspberry_server <BR/>
    运行: python camera_server.py<BR/>
 <BR/>
