@@ -5,7 +5,7 @@
    硬件:树莓派(带摄像头) <BR/>
    目录:raspberry_server <BR/>
    运行: python camera_server.py<BR/>
-   注：有些摄像头直接硬件支持mjpg流协议，带mjpg服务器能力。
+   注：有些wifi摄像头直接硬件支持mjpg流协议，带mjpg服务器能力。
 
 2.客户端1<BR/> 硬件:TTGO T-WATCH <BR/>
    目录: TTGO_T_Watch_See_Camera  需调整路由器账号，密码，树莓派IP<BR/>
